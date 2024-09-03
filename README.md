@@ -19,7 +19,6 @@ The **Month Calendar** is a web-based application that displays the current mont
 - **CSS**: Styles the calendar, ensuring it is visually appealing and responsive.
 - **JavaScript**: Handles the logic for generating the calendar, including calculating the days and highlighting the current date.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
