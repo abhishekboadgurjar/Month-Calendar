@@ -25,7 +25,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Month-Calendar.git
+    git clone https://github.com/abhishekboadgurjar/Month-Calendar.git
     ```
 
 2. **Open the project directory**:
@@ -46,7 +46,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Month Calendar project [here](https://abhishekgurjar-in.github.io/Month-Calendar/).
+You can check out the live demo of the Month Calendar project [here](https://abhishekboadgurjar.github.io/Month-Calendar/).
 ## Screenshots
 ![Screenshot 2024-08-26 232918](https://github.com/user-attachments/assets/b9e6986c-d60e-486e-8157-8ac249e63733)
 
@@ -61,5 +61,5 @@ This project was developed as part of my journey to enhance my JavaScript skills
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
 
